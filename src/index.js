@@ -1,0 +1,1 @@
+const kenLeClient = document.querySelector(".ken-le-client");
